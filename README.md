@@ -2,6 +2,8 @@
 
 A premium, fully responsive one-page website for **Casa Massage Spa**, 6 KG 249 Street, Kibagabaga, Kigali, Rwanda. Built with React, Vite and hand-written CSS, and deployed as a static site on GitHub Pages.
 
+**Live:** https://benitchris.github.io/casamassagespa/
+
 Bookings are handled entirely through **WhatsApp** — there is no backend, database, account system, payment flow or environment variable.
 
 ---
